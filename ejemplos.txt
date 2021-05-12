@@ -1,0 +1,102 @@
+|Ejemplo 1|
+
+U = ( -2 or 1 ) and ( -4 or 2 ) and ( -2 or 3 ) and ( -1 or -4 ) and ( 1 or -3 ) and ( -2 or -2 ) and ( -1 or -3 ) and ( 3 or 3 ) and ( 4 or -2 ) and ( -1 or -2 ) and ( 4 or 4 ) and ( -2 or 4 )
+k = 10
+
+Existe un resultado
+Las asignaciones usadas fueron: 
+2 = Falso
+1 = Falso
+4 = Falso
+3 = Falso
+El tiempo de ejecución para el algoritmos inicial es: 13738500
+El tiempo de ejecución para el algoritmos mejorado es: 2488200
+
+
+|Ejemplo 2|
+
+U = ( -2 or 1 ) and ( -3 or 4 ) and ( -5 or 6 ) and ( -7 or -8 ) and ( 9 or -10 )
+k = 5
+
+Existe un resultado
+Las asignaciones usadas fueron: 
+2 = Falso
+1 = Falso
+3 = Falso
+4 = Falso
+5 = Falso
+6 = Falso
+7 = Falso
+8 = Falso
+9 = Falso
+10 = Falso
+El tiempo de ejecución para el algoritmos inicial es: 12865600
+El tiempo de ejecución para el algoritmos mejorado es: 1894200  
+
+
+|Ejemplo 3| 
+
+U = ( -8 or 2 ) and ( 12 or 15 ) and ( 15 or -14 ) and ( -13 or 6 ) and ( -6 or -8 ) and ( 7 or -6 ) and ( 15 or 11 ) and ( 7 or -10 ) and ( -9 or -4 ) and ( -1 or -2 ) and ( -3 or -14 ) and ( -13 or -8 ) and ( -11 or 17 ) and ( -11 or -10 ) and ( 4 or -5 ) and ( -4 or 7 ) and ( -6 or -9 ) and ( 8 or -3 ) and ( 6 or -11 ) and ( 6 or 12 ) and ( -7 or -13 ) and ( -14 or 15 ) and ( -3 or -6 ) and ( 14 or 10 ) and ( -4 or -12 ) and ( -15 or 1 ) and ( -1 or -3 ) and ( 2 or -10 ) and ( 9 or -2 ) and ( -4 or 12 )
+k = 30
+
+Existe un resultado
+Las asignaciones usadas fueron: 
+8 = Falso
+2 = Falso
+12 = Falso
+15 = Verdadero
+14 = Verdadero
+13 = Falso
+6 = Verdadero
+7 = Verdadero
+11 = Falso
+10 = Falso
+9 = Falso
+4 = Falso
+1 = Verdadero
+3 = Falso
+17 = Falso
+5 = Falso
+El tiempo de ejecución para el algoritmos inicial es: 275244400
+El tiempo de ejecución para el algoritmos mejorado es: 2740600
+
+
+|Ejemplo 4|
+
+U = ( -8 or 2 ) and ( 12 or 15 ) and ( 16 or -14 ) and ( -13 or 1 ) and ( -3 or -4 ) and ( 5 or -6 ) and ( 28 or 10 ) and ( 7 or -11 ) and ( -9 or -29 ) and ( -17 or -19 ) and ( -18 or -20 ) and ( -23 or -30 ) and ( -21 or 27 ) and ( -24 or -26 ) and ( 22 or -25 )
+k = 15
+
+Existe un resultado
+Las asignaciones usadas fueron: 
+8 = Falso
+2 = Falso
+12 = Falso
+15 = Verdadero
+16 = Falso
+14 = Falso
+13 = Falso
+1 = Falso
+3 = Falso
+4 = Falso
+5 = Falso
+6 = Falso
+28 = Falso
+10 = Verdadero
+7 = Falso
+11 = Falso
+9 = Falso
+29 = Falso
+17 = Falso
+19 = Falso
+18 = Falso
+20 = Falso
+23 = Falso
+30 = Falso
+21 = Falso
+27 = Falso
+24 = Falso
+26 = Falso
+22 = Falso
+25 = Falso
+El tiempo de ejecución para el algoritmos inicial es: 533371129100
+El tiempo de ejecución para el algoritmos mejorado es: 2068300
