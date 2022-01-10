@@ -31,4 +31,4 @@ En el IDE Apache NetBeans abrir el poryecto y ejecutarlo de forma regular.
 
 * **Camilo Sinning** - *Diseño - Programación* - [CamiloSinningUN](https://github.com/CamiloSinningUN)
 
-Mirar la lista de todos los [contribuyentes](https://github.com/CamiloSinningUN/Covid-19-simulator/contributors) quíenes han participado en este proyecto. 
+Mirar la lista de todos los [contribuyentes](https://github.com/CamiloSinningUN/MAX-2SAT/contributors) quíenes han participado en este proyecto. 
